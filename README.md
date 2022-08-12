@@ -1,8 +1,6 @@
 # Aplikasi-Login-Dicoding
 Sebuah fitur dengan aplikasi login
 Alur fitur Login :
-1. Memasukan nama, email, dan password
+1. Memasukan nemail dan password
 2. Memvalidasi masukan
-3. Memvalidasi pengguna dengan deteksi wajah
-4. Memasukan nama ibu untuk validasi
-5. Menampilkan halaman home
+3. Menampilkan halaman home
